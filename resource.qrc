@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/del.png</file>
+    <file>images/right.png</file>
+    <file>images/data.png</file>
+    <file>images/look.png</file>
+    <file>images/imput.png</file>
+    <file>images/clear.png</file>
+    <file>images/update.png</file>
+    <file>images/shibie.png</file>
+    <file>images/cha.png</file>
+  </qresource>
+</RCC>
